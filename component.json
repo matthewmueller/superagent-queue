@@ -1,0 +1,9 @@
+{
+  "name": "superagent-queue",
+  "version": "0.0.3",
+  "main": "superagent-queue.js",
+  "scripts": [ "superagent-queue.js" ],
+  "dependencies": {
+    "visionmedia/superagent": "0.15.1"
+  }
+}
